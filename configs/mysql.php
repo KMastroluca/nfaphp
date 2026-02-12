@@ -1,8 +1,8 @@
 <?php
 
 	$mysql['host'] = "localhost";
-	$mysql['db'] = "asacube";
-	$mysql['user'] = "root";
-	$mysql['pass'] = "";
+	$mysql['db'] = "appdb";
+	$mysql['user'] = "appuser";
+	$mysql['pass'] = "apppass";
 	
 ?>
